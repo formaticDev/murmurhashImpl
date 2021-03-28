@@ -1,0 +1,93 @@
+ATTENTION: The output below when providing test.txt as args[0] and test2.txt as args[1]
+
+Please enter desired number of hash functions (K): 
+13
+Please enter desired number of members in hash table: 
+856
+Add values (0), check their belonging to the structure(1) or exit (2)? 
+0
+Please enter number of argument with full path to the file: 
+1
+Adding "anton", enabling bits: 
+117, 197, 33, 248, 154, 43, 83, 25, 84, 54, 138, 87, 212.
+
+Adding " whatever", enabling bits: 
+72, 192, 253, 241, 58, 88, 73, 171, 9, 188, 98, 202, 92.
+
+Adding " another", enabling bits: 
+91, 24, 16, 158, 176, 82, 9, 140, 119, 112, 243, 34, 147.
+
+Adding " word", enabling bits: 
+211, 1, 136, 197, 0, 54, 37, 241, 107, 21, 42, 164, 198.
+
+Adding " thisoneisnotthere", enabling bits: 
+19, 121, 92, 16, 250, 204, 114, 88, 194, 105, 110, 61, 229.
+
+Add values (0), check their belonging to the structure(1) or exit (2)? 
+1
+Please enter number of argument with full path to the file: 
+1
+Word 'anton' was found in table.
+Word ' whatever' was found in table.
+Word ' another' was found in table.
+Word ' word' was found in table.
+Word ' thisoneisnotthere' was found in table.
+Add values (0), check their belonging to the structure(1) or exit (2)? 
+1
+Please enter number of argument with full path to the file: 
+0
+Word 'anton' was found in table.
+Word ' whatever' was found in table.
+Word ' another' was found in table.
+Word ' word' was found in table.
+Word ' 1234' wasn't found in table.
+Word ' *(&^#%$' wasn't found in table.
+Word ' sortofword' wasn't found in table.
+Word ' blahbla' wasn't found in table.
+Word ' jkgfckuytxjyt' wasn't found in table.
+Add values (0), check their belonging to the structure(1) or exit (2)? 
+0
+Please enter number of argument with full path to the file: 
+0
+Adding "anton", enabling bits: 
+117, 197, 33, 248, 154, 43, 83, 25, 84, 54, 138, 87, 212.
+
+Adding " whatever", enabling bits: 
+72, 192, 253, 241, 58, 88, 73, 171, 9, 188, 98, 202, 92.
+
+Adding " another", enabling bits: 
+91, 24, 16, 158, 176, 82, 9, 140, 119, 112, 243, 34, 147.
+
+Adding " word", enabling bits: 
+211, 1, 136, 197, 0, 54, 37, 241, 107, 21, 42, 164, 198.
+
+Adding " 1234", enabling bits: 
+201, 197, 229, 184, 117, 230, 51, 144, 169, 131, 128, 55, 63.
+
+Adding " *(&^#%$", enabling bits: 
+142, 159, 117, 140, 223, 189, 33, 203, 168, 233, 137, 33, 150.
+
+Adding " sortofword", enabling bits: 
+212, 208, 99, 110, 0, 148, 26, 173, 218, 227, 231, 161, 45.
+
+Adding " blahbla", enabling bits: 
+87, 88, 132, 254, 42, 51, 120, 117, 164, 244, 157, 248, 201.
+
+Adding " jkgfckuytxjyt", enabling bits: 
+174, 241, 192, 38, 54, 180, 27, 183, 155, 117, 22, 220, 212.
+
+Add values (0), check their belonging to the structure(1) or exit (2)? 
+1
+Please enter number of argument with full path to the file: 
+0
+Word 'anton' was found in table.
+Word ' whatever' was found in table.
+Word ' another' was found in table.
+Word ' word' was found in table.
+Word ' 1234' was found in table.
+Word ' *(&^#%$' was found in table.
+Word ' sortofword' was found in table.
+Word ' blahbla' was found in table.
+Word ' jkgfckuytxjyt' was found in table.
+Add values (0), check their belonging to the structure(1) or exit (2)? 
+2
